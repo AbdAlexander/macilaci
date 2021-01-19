@@ -1,0 +1,117 @@
+; MAP 1
+
+############
+##TT@TT FTT#
+##       T #
+#      T F##
+#TT  TTT T #
+#TT  T    ##
+#T  TTT  ###
+##F  T   F #
+##TR     RT#
+############
+
+; MAP 2
+
+##################
+###   ##F#########
+##  TTTT     T T##
+## TTTTTFTTT TTT##
+#   RT R  TT TTTT#
+#F TTT  TT   TTT##
+## TTTT T  TTT####
+##          @TT###
+##################
+
+; MAP 3
+
+##############
+###TFTFTFT TT#
+##       TT  #
+## R  R   TT##
+###  T  TTTTT#
+## T TT  TTTT#
+##   TT  TTTT#
+## TTT  TTTTT#
+##F      @TTT#
+##############
+
+; MAP 4
+
+###################
+#FTTTTTTTTTTTTTTTT#
+#R       R F TTTTF#
+#T  TTTTT     TTT #
+#TT  TTT       T  #
+#TTT  TT  TT   T T#
+#TTT  TTT    TTT  #
+#TT T   TT   TTT T#
+#FR              @#
+###################
+
+; MAP 5
+
+TTTTTTTTTTT
+TTT  @  TTT
+TT  T T  TT
+T  T T T  T
+TT       TT
+TTTR F RTTT
+TTTTTTTTTTT
+
+; MAP 6
+
+##############
+##   #     @##
+##T    T T   #
+##  TTTT RTTR#
+##F    TTFT  #
+##############
+
+; MAP 7
+
+TTTTTTTTTTTTTTTTT
+TRFT  T   FRTTTRT
+T  T  TT  T T T T
+TT T TTTT T T T T
+T               T
+T  T T T T T T@TT
+TTTTTTTTTTTTTTTTT
+
+; MAP 8
+
+#################
+#               #
+#               #
+#    TTT TTT    #
+#    TR   RT    #
+#    T  F  T    #
+#    TR   RT    #
+#    TTT TTT    #
+#               #
+#              @#
+#################
+
+; MAP 9
+
+#################
+#@            RF#
+# T TTT TT TTT T#
+# T T T TT  T  T#
+#   T T T T T  T#
+#FRT   TT  T TRF#
+#################
+
+; MAP 10
+ 
+TTTTTTTTTTTTT
+T          @T
+TTT   TTTT TT
+TF   TT TT TT
+T   T      TT
+TTF  TT TT TT
+TTTF  RTTTTTT
+TTTTTF    RTT
+TTTTTTTTTTTTT
+
+;
